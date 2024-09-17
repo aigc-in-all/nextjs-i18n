@@ -1,0 +1,10 @@
+{
+  "title": "欢迎来到我的网站",
+  "changeLanguage": "Switch to English",
+  "custom": {
+    "title": "中文"
+  },
+  "sub_page": {
+    "title": "子页面标题"
+  }
+}

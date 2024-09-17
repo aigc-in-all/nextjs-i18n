@@ -1,0 +1,10 @@
+{
+    "title": "Welcome to my website",
+    "changeLanguage": "切换到中文",
+    "custom": {
+        "title": "English"
+    },
+    "sub_page": {
+        "title": "sub page title"
+    }
+}
